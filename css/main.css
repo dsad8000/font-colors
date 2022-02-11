@@ -11,17 +11,17 @@ section {
   margin: auto;
 }
 
-body h1 {
+h1 {
   color: #7b7d70;
   font-size: 2em;
 }
 
-body h2 {
+h2 {
   color: #4eafb8;
   font-size: 1.5em;
 }
 
-body p {
+p {
   font-size: 1em;
   color: #ff8641;
 }
@@ -29,30 +29,30 @@ body p {
 /*---------- TABLET ----------*/
 
 @media (min-width: 768px) {
-  body h1 {
+  h1 {
     color: #02cbd2;
   }
   
-  body h2 {
+  h2 {
     color: #fcc02a;
   }
   
-  body p {
+  p {
     color: #7b8f8e;
   }
 }
 
 /*---------- Desktops ----------*/
 @media (min-width: 1200px) {
-  body h1 {
+  h1 {
     color: #6e4b61;
   }
   
-  body h2 {
+  h2 {
     color: #cabd61;
   }
   
-  body p {
+  p {
     color: #c19e74;
   }
 }
